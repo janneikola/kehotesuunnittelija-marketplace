@@ -1,0 +1,10 @@
+{
+  "name": "kehotesuunnittelija-markkinointi",
+  "version": "1.2.0",
+  "description": "Markkinointi: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

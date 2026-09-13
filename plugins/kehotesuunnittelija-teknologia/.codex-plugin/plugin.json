@@ -1,0 +1,23 @@
+{
+  "name": "kehotesuunnittelija-teknologia",
+  "version": "1.2.0",
+  "description": "Teknologia: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Kehotesuunnittelija – Teknologia",
+    "shortDescription": "Teknologia: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "longDescription": "Teknologia: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "developerName": "Kehotesuunnittelija",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Etsi tehtävääni sopiva skill Kehotesuunnittelijasta."
+    ]
+  }
+}

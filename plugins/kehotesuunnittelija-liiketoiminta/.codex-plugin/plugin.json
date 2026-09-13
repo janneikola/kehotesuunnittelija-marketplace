@@ -1,0 +1,23 @@
+{
+  "name": "kehotesuunnittelija-liiketoiminta",
+  "version": "1.2.0",
+  "description": "Liiketoiminta: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Kehotesuunnittelija – Liiketoiminta",
+    "shortDescription": "Liiketoiminta: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "longDescription": "Liiketoiminta: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "developerName": "Kehotesuunnittelija",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Etsi tehtävääni sopiva skill Kehotesuunnittelijasta."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kehotesuunnittelija-luova",
+  "version": "1.2.0",
+  "description": "Luova: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Kehotesuunnittelija – Luova",
+    "shortDescription": "Luova: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "longDescription": "Luova: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "developerName": "Kehotesuunnittelija",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Etsi tehtävääni sopiva skill Kehotesuunnittelijasta."
+    ]
+  }
+}

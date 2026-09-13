@@ -1,0 +1,53 @@
+{
+  "name": "kehotesuunnittelija",
+  "owner": {
+    "name": "Kehotesuunnittelija"
+  },
+  "plugins": [
+    {
+      "name": "kehotesuunnittelija-hr",
+      "description": "HR: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-hr"
+    },
+    {
+      "name": "kehotesuunnittelija-myynti",
+      "description": "Myynti: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-myynti"
+    },
+    {
+      "name": "kehotesuunnittelija-markkinointi",
+      "description": "Markkinointi: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-markkinointi"
+    },
+    {
+      "name": "kehotesuunnittelija-koodaus",
+      "description": "Koodaus: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-koodaus"
+    },
+    {
+      "name": "kehotesuunnittelija-liiketoiminta",
+      "description": "Liiketoiminta: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-liiketoiminta"
+    },
+    {
+      "name": "kehotesuunnittelija-koulutus",
+      "description": "Koulutus: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-koulutus"
+    },
+    {
+      "name": "kehotesuunnittelija-luova",
+      "description": "Luova: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-luova"
+    },
+    {
+      "name": "kehotesuunnittelija-teknologia",
+      "description": "Teknologia: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-teknologia"
+    },
+    {
+      "name": "kehotesuunnittelija-sisallot",
+      "description": "Sisällöt: Kehotesuunnittelijan skillit",
+      "source": "./plugins/kehotesuunnittelija-sisallot"
+    }
+  ]
+}

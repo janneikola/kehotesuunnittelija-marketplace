@@ -1,0 +1,10 @@
+{
+  "name": "kehotesuunnittelija-luova",
+  "version": "1.2.0",
+  "description": "Luova: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

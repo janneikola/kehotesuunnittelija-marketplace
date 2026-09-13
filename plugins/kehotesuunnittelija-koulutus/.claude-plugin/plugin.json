@@ -1,0 +1,10 @@
+{
+  "name": "kehotesuunnittelija-koulutus",
+  "version": "1.2.0",
+  "description": "Koulutus: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

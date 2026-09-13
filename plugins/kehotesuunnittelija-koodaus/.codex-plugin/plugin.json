@@ -1,0 +1,23 @@
+{
+  "name": "kehotesuunnittelija-koodaus",
+  "version": "1.2.0",
+  "description": "Koodaus: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+  "author": {
+    "name": "Kehotesuunnittelija"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Kehotesuunnittelija – Koodaus",
+    "shortDescription": "Koodaus: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "longDescription": "Koodaus: hae Kehotesuunnittelijan käyttöoikeuteesi kuuluvat skillit tehtävän tueksi.",
+    "developerName": "Kehotesuunnittelija",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Etsi tehtävääni sopiva skill Kehotesuunnittelijasta."
+    ]
+  }
+}

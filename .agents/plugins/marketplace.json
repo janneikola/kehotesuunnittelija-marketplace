@@ -1,0 +1,116 @@
+{
+  "name": "kehotesuunnittelija",
+  "interface": {
+    "displayName": "Kehotesuunnittelija"
+  },
+  "plugins": [
+    {
+      "name": "kehotesuunnittelija-hr",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-hr"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-myynti",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-myynti"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-markkinointi",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-markkinointi"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-koodaus",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-koodaus"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-liiketoiminta",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-liiketoiminta"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-koulutus",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-koulutus"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-luova",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-luova"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-teknologia",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-teknologia"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "kehotesuunnittelija-sisallot",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kehotesuunnittelija-sisallot"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

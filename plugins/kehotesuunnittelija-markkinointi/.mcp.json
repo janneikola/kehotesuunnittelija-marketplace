@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kehotesuunnittelija": {
+      "type": "http",
+      "url": "https://kehotesuunnittelija.fi/mcp"
+    }
+  }
+}
